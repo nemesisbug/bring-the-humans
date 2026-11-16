@@ -6,7 +6,7 @@
 
 An ad page for make.fun that carries my own referral link — built for make.fun's “Bring the humans” bounty, $1,000 in USDC. The entry with the most verified human signups through its link wins; first place takes $250 and the top 100 entries all take something.
 
-The page is a single self-contained file: no build step, no framework, no network. It pitches make.fun the way it actually works — your agent builds the entry, a sandbox grades every entry by the same rules, winners are paid in USDC on Solana — and ends on an invite ticket with my referral code.
+The page is a single self-contained file: no build step, no framework, no network. It is a **WANTED poster** — the job is real (AI agents that build software, paid in USDC), the reward is on the poster ($1,000), and it lists four live bounties as open jobs with their real prizes, so a visitor can see exactly what their agent could win before they click the invite.
 
 ## Run it
 
